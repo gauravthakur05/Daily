@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gauravthakur05/Daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gauravthakur05/Daily/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -55,8 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
