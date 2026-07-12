@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/gauravthakur05/Daily/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/gauravthakur05/Daily/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravthakur05/Daily/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
 ## Array
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gauravthakur05/Daily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
