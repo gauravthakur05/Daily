@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gauravthakur05/Daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gauravthakur05/Daily/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/gauravthakur05/Daily/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 ## Matrix
 |  |
 | ------- |
