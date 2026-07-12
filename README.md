@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/gauravthakur05/Daily/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/gauravthakur05/Daily/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravthakur05/Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravthakur05/Daily/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravthakur05/Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gauravthakur05/Daily/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
