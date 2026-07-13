@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
