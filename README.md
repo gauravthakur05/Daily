@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gauravthakur05/Daily/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/gauravthakur05/Daily/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
+| [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gauravthakur05/Daily/tree/master/0278-first-bad-version) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
