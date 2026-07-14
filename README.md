@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
