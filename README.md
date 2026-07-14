@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
+| [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gauravthakur05/Daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
+| [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,4 +157,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
