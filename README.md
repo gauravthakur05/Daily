@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Bit Manipulation
 |  |
@@ -148,14 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
