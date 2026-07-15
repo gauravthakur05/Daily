@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gauravthakur05/Daily/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/gauravthakur05/Daily/tree/master/0394-decode-string) |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 ## Array
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Breadth-First Search
 |  |
@@ -159,10 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
