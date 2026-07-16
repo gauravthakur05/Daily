@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/gauravthakur05/Daily/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravthakur05/Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Bit Manipulation
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gauravthakur05/Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravthakur05/Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gauravthakur05/Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravthakur05/Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0226-invert-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/gauravthakur05/Daily/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Monotonic Stack
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gauravthakur05/Daily/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/gauravthakur05/Daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Simulation
