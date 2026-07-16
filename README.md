@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravthakur05/Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gauravthakur05/Daily/tree/master/0344-reverse-string) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/gauravthakur05/Daily/tree/master/1013-fibonacci-number) |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -188,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/gauravthakur05/Daily/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
