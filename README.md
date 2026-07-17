@@ -1,3 +1,56 @@
+# 🚀 DailyGfg
+
+[Badges]
+
+## 📖 About
+
+This repository contains my daily GeeksforGeeks & LeetCode solutions in C++.
+
+## ✨ Features
+
+- Daily DSA Practice
+- Clean C++ Solutions
+- Interview Preparation
+- Organized by Difficulty
+
+## 📂 Folder Structure
+
+Basic/
+Easy/
+Medium/
+
+## ⭐ Support
+
+If you like this repository, give it a ⭐.
+
+---
+
+# 🤖 Auto Generated LeetHub Section
+
+> **⚠️ Don't edit the section below. It is automatically updated by LeetHub.**
+
+<!---LeetCode Topics Start-->
+
+⬇️ **Yahan se neeche wala pura section waise ka waise rehne do.**
+
+## Linked List
+...
+...
+...
+## Binary Tree
+...
+
+<!---LeetCode Topics End-->
+
+---
+
+## 👨‍💻 Author
+
+**Gaurav Thakur**
+
+GitHub: https://github.com/gauravthakur05
+
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
