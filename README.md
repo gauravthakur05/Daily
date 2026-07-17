@@ -4,7 +4,7 @@
 
 ## 📖 About
 
-This repository contains my daily GeeksforGeeks & LeetCode solutions in C++.
+This repository contains my daily LeetCode solutions in C++.
 
 ## ✨ Features
 
