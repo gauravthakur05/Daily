@@ -1,27 +1,68 @@
-# 🚀 Daily-leetcode
+# 🚀 LeetCode Solutions
 
-[Badges]
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/gauravthakur05/Daily?style=for-the-badge" />
+</p>
+
+<h3 align="center">
+💻 Solving LeetCode Problems Daily | 📚 DSA Practice | 🚀 Interview Preparation
+</h3>
+
+---
 
 ## 📖 About
 
-This repository contains my daily LeetCode solutions in C++.
+Welcome to my **LeetCode Solutions Repository**!
 
-## ✨ Features
+This repository contains my solutions to LeetCode problems written in **C++**. I solve problems regularly to improve my Data Structures & Algorithms skills and prepare for coding interviews.
 
-- Daily DSA Practice
-- Clean C++ Solutions
-- Interview Preparation
-- Organized by Difficulty
+---
 
-## 📂 Folder Structure
+## ✨ Repository Highlights
 
-Basic/
-Easy/
-Medium/
+- 🚀 Daily LeetCode Solutions
+- 💻 Clean & Beginner-Friendly C++ Code
+- 📚 Covers Multiple DSA Topics
+- 🎯 Placement & Interview Preparation
+- 🤖 Automatically Updated using **LeetHub**
 
-## ⭐ Support
+---
 
-If you like this repository, give it a ⭐.
+## 🛠️ Language
+
+- C++
+
+---
+
+## 🎯 Goals
+
+- ✅ Solve LeetCode problems consistently
+- ✅ Master Data Structures & Algorithms
+- ✅ Improve Problem Solving Skills
+- ✅ Crack Product-Based Companies
+
+---
+
+## 📌 Topics Covered
+
+- Arrays
+- Strings
+- Linked List
+- Stack
+- Queue
+- Trees
+- Binary Search
+- Dynamic Programming
+- Graphs
+- Backtracking
+- Greedy
+- Sliding Window
+- Hashing
+- Recursion
+- And many more...
 
 ---
 
