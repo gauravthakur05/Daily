@@ -1,4 +1,4 @@
-# 🚀 DailyGfg
+# 🚀 Daily-leetcode
 
 [Badges]
 
