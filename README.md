@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gauravthakur05/Daily/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/gauravthakur05/Daily/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravthakur05/Daily/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
