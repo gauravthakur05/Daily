@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
+| [0879-maximize-distance-to-closest-person](https://github.com/gauravthakur05/Daily/tree/master/0879-maximize-distance-to-closest-person) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
