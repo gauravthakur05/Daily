@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/gauravthakur05/Daily/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/gauravthakur05/Daily/tree/master/0747-min-cost-climbing-stairs) |
 | [0879-maximize-distance-to-closest-person](https://github.com/gauravthakur05/Daily/tree/master/0879-maximize-distance-to-closest-person) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gauravthakur05/Daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/gauravthakur05/Daily/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/gauravthakur05/Daily/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/gauravthakur05/Daily/tree/master/0883-car-fleet) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/gauravthakur05/Daily/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gauravthakur05/Daily/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/gauravthakur05/Daily/tree/master/0278-first-bad-version) |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauravthakur05/Daily/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 ## Interactive
 |  |
 | ------- |
@@ -290,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gauravthakur05/Daily/tree/master/0098-validate-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gauravthakur05/Daily/tree/master/0783-search-in-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/gauravthakur05/Daily/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
