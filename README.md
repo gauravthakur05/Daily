@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/gauravthakur05/Daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
 ## Math
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/gauravthakur05/Daily/tree/master/0191-number-of-1-bits) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
