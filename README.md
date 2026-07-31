@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauravthakur05/Daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/gauravthakur05/Daily/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/gauravthakur05/Daily/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/gauravthakur05/Daily/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/gauravthakur05/Daily/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gauravthakur05/Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/gauravthakur05/Daily/tree/master/0654-maximum-binary-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/gauravthakur05/Daily/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/gauravthakur05/Daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/gauravthakur05/Daily/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/gauravthakur05/Daily/tree/master/0260-single-number-iii) |
 ## Math
 |  |
 | ------- |
